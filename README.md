@@ -1,2 +1,2 @@
 # UIC-CS211-In-Lecture-Assignment
-tbd
+Barrett Ellman			CS 				Systems 		Finishing A Project
