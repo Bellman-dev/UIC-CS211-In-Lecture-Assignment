@@ -2,6 +2,7 @@
 Barrett Ellman
 Jose Martinez
 Giacomo Darius Canta
+Riya Prajapati
 
 i accidentally deleted your names. if you are reading this and youre not on this list
 please update the README.md file
